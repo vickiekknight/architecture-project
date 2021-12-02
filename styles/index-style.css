@@ -1,0 +1,139 @@
+.header {
+  background-color: #03a3df;
+  border: 3px solid #ecb722
+}
+
+body {
+  font-family: arial;
+}
+
+h1 {
+  color: #03a3df;
+}
+
+.menu {
+  background-color: #03a3df;
+  color: white;
+  padding: 1rem;
+  margin-top: 1rem;
+  border: 3px solid #ecb722;
+  float: left;
+  width: 250px;
+  margin-right: 2rem;
+  height: 97rem;
+}
+
+.info-box {
+  background-color: #1b447f;
+  padding: 0.5rem;
+  border: 3px solid #ecb722;
+  margin-top: 18rem;
+}
+
+.bott-text {
+  margin-top: 17rem;
+}
+
+.link {
+  text-align: center;
+  margin-left: 80rem;
+  margin-top: 30rem;
+  font-weight: bold;
+  color: #03a3df;
+  font-size: 140%;
+}
+
+.link a:visited {
+  color: #ecb722;
+}
+
+.link a:hover {
+  font-size: 150%;
+  color: #1b447f;
+  text-shadow: 2px 2px #03a3df;
+}
+
+.titles {
+  color: #1b447f;
+  text-shadow: 2px 2px #03a3df;
+  font-size: 120%;
+  font-style: italic;
+}
+
+.class-label {
+  margin-left: 32rem;
+}
+
+.priv-less-label {
+  margin-left: 61rem;
+  margin-top: -3.5rem;
+}
+
+.classes {
+  display:grid;
+  grid-gap: 20px 30px;
+  float: left;
+  width: 400px;
+  margin-right: 8rem;
+}
+
+.classes div {
+  border: 3px solid #ecb722;
+  background-color: #1b447f;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.private-lessons {
+  display:grid;
+  grid-gap: 20px 30px;
+  float: left;
+  width: 400px;
+}
+
+.private-lessons div {
+  border: 3px solid #ecb722;
+  background-color: #1b447f;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.circle {
+  width: 430px;
+  height: 430px;
+  -moz-border-radius: 270px;
+  border-radius: 270px;
+}
+
+h5 {
+  color: #1b447f;
+  text-shadow: 2px 2px #03a3df;
+  text-align: center;
+  font-size: 130%;
+  margin-top: 60rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  border: 3px solid #03a3df;
+  padding: 2rem;
+}
+
+.footer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.policy {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.copyright {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
