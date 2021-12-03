@@ -1,0 +1,102 @@
+.header {
+  background-color: #03a3df;
+  border: 3px solid #ecb722
+}
+
+body {
+  font-family: arial;
+}
+
+h1 {
+  color: #03a3df;
+}
+
+.info-box {
+  background-color: #1b447f;
+  padding: 0.5rem;
+  border: 3px solid #ecb722;
+  margin-top: 14rem;
+}
+
+.menu {
+  background-color: #03a3df;
+  color: white;
+  padding: 1rem;
+  margin-top: 1rem;
+  border: 3px solid #ecb722;
+  float: left;
+  width: 250px;
+  margin-right: 2rem;
+  height: 86rem;
+}
+
+.gif {
+  margin-top: 20rem;
+}
+
+.footer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.policy {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.copyright {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+h5 {
+  color: #1b447f;
+  text-shadow: 2px 2px #03a3df;
+  text-align: center;
+  font-size: 130%;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  border: 3px solid #03a3df;
+  padding: 2rem;
+  margin-top: 37rem;
+}
+
+.link {
+  text-align: right;
+  font-weight: bold;
+  color: #03a3df;
+  font-size: 140%;
+  margin-left: 81rem;
+  margin-top: -50rem;
+}
+
+.link a:visited {
+  color: #ecb722;
+}
+
+.link a:hover {
+  font-size: 150%;
+  color: #1b447f;
+  text-shadow: 2px 2px #03a3df;
+}
+
+.instructors {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 11rem;
+}
+
+.box {
+  background: #1b447f;
+  color: white;
+  border: 3px solid #ecb722;
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem;
+}
