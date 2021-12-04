@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: arial;
+  font-family: arial;
 }
 
 h1 {
@@ -135,7 +135,5 @@ h5 {
 .copyright {
   position: absolute;
   bottom: 8px;
-  left: 16px;
+  left: 15px;
 }
-
-body{width: 100%;}

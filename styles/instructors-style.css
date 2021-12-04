@@ -62,7 +62,6 @@ h5 {
   margin-right: 10rem;
   border: 3px solid #03a3df;
   padding: 2rem;
-  margin-top: 37rem;
 }
 
 .link {
@@ -101,4 +100,7 @@ h5 {
   padding: 2rem;
 }
 
-body{width: 100%;}
+video {
+  margin-top: 35rem;
+  margin-left: 15rem;
+}
